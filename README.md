@@ -5,13 +5,15 @@ This page: https://github.com/kristinharkness/Arduino-Basics
 
 Arduino Website: https://www.arduino.cc
 
-Arduino in a nutshell: [Site](https://hci.rwth-aachen.de/arduino), [PDF](https://hci.rwth-aachen.de/get-attachment/2346?fallback=/files/migrated/files/2346-Arduino-In-A-Nutshell-1.13.pdf&filename=Arduino%20In%20A%20Nutshell%201.13.pdf).
+Arduino in a Nutshell: [Site](https://hci.rwth-aachen.de/arduino), [PDF](https://hci.rwth-aachen.de/get-attachment/2346?fallback=/files/migrated/files/2346-Arduino-In-A-Nutshell-1.13.pdf&filename=Arduino%20In%20A%20Nutshell%201.13.pdf).
 
 Spark Electronics Team:
 * Email: electronics@sparkmakerspace.org
-* Drew Gates
+* [Drew Gates](https://github.com/drewgates)
 * Kristin Harkness
-* John Scimone
+* [Mike Molinari](https://github.com/mmiscool)
+* [John Scimone](https://github.com/fsckyou)
+
 
 To set up the Aduino environment on your computer:
 * Download the latest version (1.8.13 as of this writing) of the Arduino IDE: https://www.arduino.cc/en/software
