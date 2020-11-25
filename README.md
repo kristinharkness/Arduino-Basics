@@ -22,3 +22,4 @@ To set up the Aduino environment on your computer:
 Links to the:
 * Kits: http://www.quimat.cn/cpzs/sjpj/311.html
 * DHT11 Temperature and Humidity sensor tutorial: https://learn.adafruit.com/dht/using-a-dhtxx-sensor
+* Stepper Motor Example: https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/
