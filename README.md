@@ -5,7 +5,7 @@ This page: https://github.com/kristinharkness/Arduino-Basics
 
 Arduino Website: https://www.arduino.cc
 
-Arduino in a nutshell: https://hci.rwth-aachen.de/get-attachment/2346?fallback=/files/migrated/files/2346-Arduino-In-A-Nutshell-1.13.pdf&filename=Arduino%20In%20A%20Nutshell%201.13.pdf
+Arduino in a nutshell: [Site](https://hci.rwth-aachen.de/arduino), [PDF](https://hci.rwth-aachen.de/get-attachment/2346?fallback=/files/migrated/files/2346-Arduino-In-A-Nutshell-1.13.pdf&filename=Arduino%20In%20A%20Nutshell%201.13.pdf).
 
 Spark Electronics Team:
 * Email: electronics@sparkmakerspace.org
@@ -20,6 +20,6 @@ To set up the Aduino environment on your computer:
 * Filter by Adafruit Unified Sensor and install the "Adafruit Unfied Sensor" library (current version 1.1.4)
 
 Links to the:
-* Kits: http://www.quimat.cn/cpzs/sjpj/311.html
+* Kits: https://www.amazon.ca/Quimat-Tutorial-Complete-Breadboard-Protoboard/dp/B01DDHSQJ8 (the kits vary, but this description is close)
 * DHT11 Temperature and Humidity sensor tutorial: https://learn.adafruit.com/dht/using-a-dhtxx-sensor
 * Stepper Motor Example: https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/
