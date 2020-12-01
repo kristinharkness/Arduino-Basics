@@ -25,3 +25,4 @@ Links to the:
 * Kits: https://www.amazon.ca/Quimat-Tutorial-Complete-Breadboard-Protoboard/dp/B01DDHSQJ8 (the kits vary, but this description is close)
 * DHT11 Temperature and Humidity sensor tutorial: https://learn.adafruit.com/dht/using-a-dhtxx-sensor
 * Stepper Motor Example: https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/
+* IR Sensor Example: https://learn.adafruit.com/ir-sensor/using-an-ir-sensor
